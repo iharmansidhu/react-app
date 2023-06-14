@@ -1,6 +1,6 @@
 * {
-  background-color: #F7F8F9;
-  color: #44546F;
+  background-color: #f7f8f9;
+  color: #44546f;
   font-family: Inter;
   font-size: 16px;
   font-weight: 500;
@@ -9,20 +9,24 @@
   text-align: left;
 }
 
-.navbar-background{
+.navbar-background {
   background-color: white;
-  color: #2C7BE5;
+  color: #2c7be5;
 }
 
-.table button{
-  background-color: #16A34A;
+.table button {
+  background-color: #16a34a;
 }
 
-.table{
+.table button1 {
+  background-color: #44546f;
+}
+
+.table {
   margin-top: 50px;
 }
 
-.tag-font-size{
+.tag-font-size {
   font-size: 10px !important;
   top: 9px !important;
 }
