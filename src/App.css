@@ -9,9 +9,13 @@
   text-align: left;
 }
 
-.navbar-background {
-  background-color: white;
+.navbar {
+  background-color: #ffffff;
   color: #2c7be5;
+}
+
+.navbar-nav-link {
+  color: #44546f;
 }
 
 .table button {
