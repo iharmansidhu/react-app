@@ -11,10 +11,6 @@ const data = [
     description: "eyhet",
     status: "Active",
     createdDate: "2023-06-14T07:35:34.77",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "86035212-60ff-4eaa-858d-212e9524216a",
@@ -23,10 +19,6 @@ const data = [
     description: "Something",
     status: "Active",
     createdDate: "2023-06-14T05:46:30.883",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "99f36e8e-f538-486f-8ae1-5d2324f9abe4",
@@ -35,10 +27,6 @@ const data = [
     description: "Meju",
     status: "Active",
     createdDate: "2023-06-14T07:45:30.483",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "585ab0cc-9bd5-443f-80fa-c868647b0a5e",
@@ -47,10 +35,6 @@ const data = [
     description: "asdasdas",
     status: "Active",
     createdDate: "2023-06-13T13:38:18.953",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "0e1af50d-afa5-49c5-affd-cc2544b99f10",
@@ -59,10 +43,6 @@ const data = [
     description: "dd",
     status: "Active",
     createdDate: "2023-06-13T11:11:07.627",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "0a0c4682-2122-4499-bef8-cfa529c0b192",
@@ -71,10 +51,6 @@ const data = [
     description: "ryuir6y",
     status: "Active",
     createdDate: "2023-06-12T08:23:46.913",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "ffef98c4-a7e4-4b64-81fb-dec10671257c",
@@ -83,10 +59,6 @@ const data = [
     description: "Something",
     status: "Active",
     createdDate: "2023-06-12T07:37:04.697",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "ef7e9048-e954-4a9b-8b2a-e03c84a24f8f",
@@ -95,10 +67,6 @@ const data = [
     description: "eryhuery",
     status: "Active",
     createdDate: "2023-06-14T05:29:50.23",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "71d5c24e-fb25-4814-a904-e30abb1a4f83",
@@ -107,10 +75,6 @@ const data = [
     description: "dd",
     status: "Active",
     createdDate: "2023-06-13T11:08:21.06",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "78ecdfbe-da78-4da6-ab47-e33c8f41c60d",
@@ -119,10 +83,6 @@ const data = [
     description: "reior748",
     status: "Active",
     createdDate: "2023-06-12T09:37:11.31",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
   {
     id: "0045806a-61b1-4748-8857-e3afb743aa4d",
@@ -131,10 +91,6 @@ const data = [
     description: "tywrty",
     status: "Active",
     createdDate: "2023-06-14T06:23:56.947",
-    details: {
-      startDate: "2023-06-14T07:35:34.77",
-      endDate: "2023-06-14T07:35:34.77",
-    },
   },
 ];
 
